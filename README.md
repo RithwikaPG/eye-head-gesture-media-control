@@ -70,6 +70,6 @@ python src/eye_head_gesture_control.py
 
 ## 👤 Author
 
-**Dhanush Kannan**
+**Rithwika PG**
 Robotics & Automation Engineering Student
 Sahyadri College of Engineering and Management
