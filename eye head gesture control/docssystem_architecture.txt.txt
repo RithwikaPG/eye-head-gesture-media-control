@@ -1,0 +1,13 @@
+Webcam
+  ↓
+OpenCV Video Capture
+  ↓
+MediaPipe Face Mesh
+  ↓
+Eye Blink & Gaze Detection
+  ↓
+Head Pose Estimation
+  ↓
+Gesture Mapping Logic
+  ↓
+Keyboard Control (YouTube)

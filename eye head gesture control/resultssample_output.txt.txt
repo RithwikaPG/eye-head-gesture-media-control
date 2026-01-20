@@ -1,0 +1,5 @@
+Gesture: Double Blink
+Action: Play / Pause
+FPS: 28–32
+Lighting: Normal indoor
+Accuracy: High

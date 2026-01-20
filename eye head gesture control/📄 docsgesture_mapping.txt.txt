@@ -1,0 +1,9 @@
+Double Blink      → Play / Pause
+Long Blink        → Mute
+Look Left         → Rewind
+Look Right        → Forward
+Head Turn Left    → Rewind (Fast)
+Head Turn Right   → Forward (Fast)
+Head Tilt Left    → Volume Down
+Head Tilt Right   → Volume Up
+Face Disappear    → Auto Pause
